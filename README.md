@@ -3,7 +3,6 @@ Quick tool to open ports VIA UPNP
 
 Download: https://mega.nz/#!oUkzCIDC!8jrAVxHHQTTciA0btvjGlE9iN3qCKFTqzh2TuTL0YjY
 
-Source: https://github.com/atlassanjay/tcp-port-opener
 
 Usage: port nic-ip
 
